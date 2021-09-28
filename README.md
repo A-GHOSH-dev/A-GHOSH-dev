@@ -33,6 +33,8 @@
   <a href="https://www.hackerearth.com/@ananya.ghosh2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aman4261" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/ananyaghosh20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="theroaster" height="30" width="40" /></a>
   <a href="https://leetcode.com/AnanyaGhosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leanwithme" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/15327144/ananya-ghosh" target="blank"><img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/stack2.png" alt="leanwithme" height="30" width="40" /></a>
+  <a href="https://www.researchgate.net/profile/Ananya-Ghosh-11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="30" width="40" /></a>
   
   
   
