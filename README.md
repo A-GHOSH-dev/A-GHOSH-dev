@@ -23,6 +23,9 @@
   <a href="https://www.instagram.com/an_g0001/">
     <img align="left" alt="Ananya Ghosh | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a>
+  <a href="https://medium.com/@ananyaghosh00164">
+    <img align="left" alt="Ananya Ghosh | Medium" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/medium.svg" />
+  </a>
   <a href="mailto:ananyaghosh00164@gmail.com">
     <img align="left" alt="Ananya Ghosh | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> 
