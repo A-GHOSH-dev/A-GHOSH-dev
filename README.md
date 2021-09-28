@@ -19,6 +19,7 @@
   <a href="https://www.linkedin.com/in/ananya-ghosh-739b561b8/">
     <img align="left" alt="Ananya Ghosh | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> 
+  <a href="https://www.youtube.com/channel/UCsSy9vI-BORzjVPvgXdZwxA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="leanwithme" height="30" width="40" /></a>
   <a href="https://www.instagram.com/an_g0001/">
     <img align="left" alt="Ananya Ghosh | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a>
