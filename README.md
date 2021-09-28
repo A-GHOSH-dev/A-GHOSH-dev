@@ -1,4 +1,4 @@
-![Pink Cyber Monday Sale Announcement Email Header](https://user-images.githubusercontent.com/75447439/135032808-e1db475d-9826-4c01-ade8-8bc255d3a100.gif)
+<img align="center" alt="Ananya Ghosh | Overview" width="100%" src="https://github.com/A-GHOSH-dev/Overview/blob/master/Pink%20Cyber%20Monday%20Sale%20Announcement%20Email%20Header.png" />
 
 ## Hi there 👋 I'm Ananya Ghosh!
 
