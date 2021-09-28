@@ -44,15 +44,15 @@
 
 
 ### GitHub Stats
-![Hariket Sheth Github Stats](https://github-readme-stats.vercel.app/api?username=harshsharma2210&custom_title=Hariket%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
+![Hariket Sheth Github Stats](https://github-readme-stats.vercel.app/api?username=A-GHOSH-dev&custom_title=Hariket%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
 
 ### GitHub Contributions
-![Hariket Sheth GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=harshsharma2210)
+![Hariket Sheth GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=A-GHOSH-dev)
 
-[![Harsh Sharma GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshsharma2210&theme=xcode)](https://github.com/harshsharma2210)
+[![Harsh Sharma GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=A-GHOSH-dev&theme=xcode)](https://github.com/harshsharma2210)
 
 ### Most Used Langauges
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsharma2210&layout=compact&theme=radical&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-GHOSH-dev&layout=compact&theme=radical&langs_count=8)
  
 <br>
 </p>
@@ -63,6 +63,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/SatYu26/count.svg) -->
 
 <!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
+
+
 
 
 
