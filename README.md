@@ -1,5 +1,3 @@
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=A-GHOSH-dev&repo=Overview)
-
 <img align="center" alt="Ananya Ghosh | Overview" width="100%" src="https://github.com/A-GHOSH-dev/Overview/blob/master/Pink%20Cyber%20Monday%20Sale%20Announcement%20Email%20Header.png" />
 
 ## Hi there 👋 I'm Ananya Ghosh!
@@ -65,7 +63,8 @@
 <!-- ![visitors](https://badges.pufler.dev/visits/SatYu26/SatYu26)
 ![Visitor Count](https://profile-counter.glitch.me/SatYu26/count.svg) -->
 
-<!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
+<!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats --->
+<!---![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=A-GHOSH-dev&repo=Overview)-->
 
 
 
