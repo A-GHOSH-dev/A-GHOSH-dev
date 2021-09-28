@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Ananya Ghosh!
 
-## 🎓 I'm a Integrated MTech Student at Vellore Institute of Technology.
+## 🎓 I'm a Integrated MTech CSE Student at Vellore Institute of Technology.
 
 - 💻 Web Developer Frontend Backend
 - 🌟 Passionate about Web Dev, Software Development, IoT.
