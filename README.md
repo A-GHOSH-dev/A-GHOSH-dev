@@ -70,6 +70,7 @@
  
 <br>
 </p>
+![Profile views](https://gpvc.arturio.dev/A-GHOSH-dev)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=README.md)
 
