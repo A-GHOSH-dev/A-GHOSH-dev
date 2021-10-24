@@ -10,7 +10,7 @@
 - 👯 I’m open to collaborate with anyone on any project.
 - 💬 Ask me about Web Development
 - ♟️ I love playing chess.
-- 📄 Know about my experiences [https://www.linkedin.com/in/ananya-ghosh-739b561b8/](https://www.linkedin.com/in/ananya-ghosh-739b561b8/)
+- 📄 Know about my experiences: [All my links](https://linktr.ee/A_GHOSH_dev)
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
