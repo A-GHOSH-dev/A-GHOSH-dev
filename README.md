@@ -4,11 +4,12 @@
 
 ## 🎓 I'm a Integrated MTech CSE Student at Vellore Institute of Technology.
 
-- 💻 Web Developer Frontend Backend
-- 🌟 Passionate about Web Dev, Software Development, IoT.
+- 💻 Artificial Intelligent, Machine Learning, Deep Learning, Soft computing, Neural networks, Federated Learning, NLP Developer
+- 💻 Full Stack Software Developer
+- 🌟 Undergraduate Student Researcher
 - 🤝 Open for Internships
 - 👯 I’m open to collaborate with anyone on any project.
-- 💬 Ask me about Web Development
+- 💬 Ask me about Technology
 - ♟️ I love playing chess.
 - 📄 Know about my experiences: [All my links](https://linktr.ee/A_GHOSH_dev)
 
