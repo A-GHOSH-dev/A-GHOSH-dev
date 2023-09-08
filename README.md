@@ -58,13 +58,13 @@
 
 
 ### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-GHOSH-dev)](https://github.com/A-GHOSH-dev/github-readme-stats)
+[![Ananya Ghosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-GHOSH-dev)](https://github.com/A-GHOSH-dev/github-readme-stats)
 
 
 ### GitHub Contributions
-![Hariket Sheth GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=A-GHOSH-dev)
+![Ananya Ghosh GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=A-GHOSH-dev)
 
-[![Harsh Sharma GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=A-GHOSH-dev&theme=xcode)](https://github.com/A-GHOSH-dev)
+[![Ananya Ghosh GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=A-GHOSH-dev&theme=xcode)](https://github.com/A-GHOSH-dev)
 
 ### Most Used Langauges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-GHOSH-dev&layout=compact&theme=radical&langs_count=8)
