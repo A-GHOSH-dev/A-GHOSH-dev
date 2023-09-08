@@ -2,9 +2,9 @@
 
 ## Hi there 👋 I'm Ananya Ghosh!
 
-## 🎓 I'm a Integrated MTech CSE Student at Vellore Institute of Technology.
+## 🎓 I'm an Integrated MTech CSE Student at Vellore Institute of Technology.
 
-- 💻 Artificial Intelligent, Machine Learning, Deep Learning, Soft computing, Neural networks, Federated Learning, NLP Developer
+- 💻 Artificial Intelligence, Machine Learning, Deep Learning, Soft computing, Neural networks, Federated Learning, NLP Developer
 - 💻 Full Stack Software Developer
 - 🌟 Undergraduate Student Researcher
 - 🤝 Open for Internships
