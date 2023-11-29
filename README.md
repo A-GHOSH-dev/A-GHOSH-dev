@@ -6,7 +6,8 @@
 
 - 💻 Artificial Intelligence, Machine Learning, Deep Learning, Soft computing, Neural networks, Federated Learning, NLP Developer
 - 💻 Full Stack Software Developer
-- 🌟 Undergraduate Student Researcher - [ORCID](https://orcid.org/0009-0005-7784-007X) 
+- 🌟 Undergraduate Student Researcher - [ORCID](https://orcid.org/0009-0005-7784-007X)
+- 🌟 Research work - [Link](https://drive.google.com/file/d/1K2MEEhHGoryHjXNJkrRlcFC-vtxPN6M_/view?usp=sharing)
 - 🤝 Open for Internships
 - 👯 I’m open to collaborate with anyone on any project.
 - 💬 Ask me about Technology
